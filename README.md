@@ -1,4 +1,4 @@
-# Proyecto-M-quina-Aguateros.
+# Proyecto-Máquina-Aguateros.
 Modelo de simulación de una máquina de aguateros ubicada en la universidad de los Andes.
 
 ## Construido con.
